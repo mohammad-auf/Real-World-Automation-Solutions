@@ -1,0 +1,25 @@
+## 🧠 Author
+
+**Mohammad auf**  
+Python Developer | Web Automation | Freelancer
+Connect on [LinkedIn](https://www.linkedin.com/in/mohammad-auf-4a3a67222/)
+
+
+### 🔗 **LinkedIn Project Description**
+
+> **📊 VIX Futures Data Pipeline | Web Scraping + Django + MySQL**
+>
+> I built a full-stack market data pipeline hosted on a Hostinger VPS to extract and visualize VIX Futures data from the CBOE.  
+>
+> ✅ Scraped VIX futures table hourly (8 AM–5 PM EST) using Selenium and BeautifulSoup.  
+> ✅ Parsed Expiry Dates and calculated custom metrics (M1M2 ratio, slope, etc.).  
+> ✅ Stored all values in MySQL with automated schema updates.  
+> ✅ Built a Django-powered frontend showing 30-day rolling charts by contract expiry (color-coded).  
+> ✅ Automated with cron jobs for real-time updates and monitoring.
+>
+> 📌 Technologies: Python, Selenium, BeautifulSoup, Django, MySQL, VPS (Hostinger)
+>
+> 🔗 GitHub: [https://github.com/mohammad-auf/VIXTrack360]  
+> 🔗 Live Demo / VPS: [https://www.onedelta.us/]
+
+

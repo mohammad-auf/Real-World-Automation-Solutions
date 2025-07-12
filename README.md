@@ -59,6 +59,11 @@ A comprehensive collection of data science, web scraping, and analytics projects
 - **Files**: Booking data in CSV and JSON formats, working script demo
 - **Skills**: Booking system analysis, data transformation
 
+### 12. **Vixtrack**
+- **Description**: Advanced tracking and monitoring automation system
+- **Files**: Tracking scripts, monitoring dashboards, automation workflows
+- **Skills**: Real-time monitoring, automation workflows, system tracking
+
 ## 🛠️ Technologies Used
 
 - **Programming Languages**: Python, JavaScript
@@ -98,7 +103,8 @@ Portfolio projects/
 ├── Real Estate Agents/
 ├── Stock Market Data/
 ├── Tableau Dashboard/
-└── Ticket Booking/
+├── Ticket Booking/
+└── Vixtrack/
 ```
 
 ## 📞 Contact
