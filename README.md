@@ -103,8 +103,11 @@ Portfolio projects/
 
 ## 📞 Contact
 
-For questions or collaboration opportunities, please reach out through the project documentation in each folder.
+Here are the exact clickable links for your contact and profiles:
 
+📧 Email: mohammadauf11@gmail.com
+💼 Fiverr: https://www.fiverr.com/s/yvaawxZ
+💻 Upwork: https://www.upwork.com/freelancers/mohammada763?mp_source=share
 ---
 
 *This portfolio showcases a diverse range of data science and analytics projects, demonstrating proficiency in data collection, processing, analysis, and visualization across various domains.* 
